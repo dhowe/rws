@@ -10,6 +10,7 @@
 * [Kolmogorov Complexity](https://en.wikipedia.org/wiki/Kolmogorov_complexity)
 * [Randomness by design](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.94.6651&rep=rep1&type=pdf) by William Dembski
 
+<br>
 
 <img src="https://raw.githubusercontent.com/dhowe/GetGen/master/getgen.png"/>
 
