@@ -1,6 +1,6 @@
 
 
-## A micro-workshop on Randomness
+## A Micro-Workshop on Randomness
 
 ### Resources
 
