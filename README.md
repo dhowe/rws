@@ -1,6 +1,6 @@
 
 
-## A workshop on Randomness for UAL
+## A micro-workshop on Randomness
 
 ### Resources
 
