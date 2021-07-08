@@ -9,6 +9,7 @@
 * [Kolmogorov Complexity](https://en.wikipedia.org/wiki/Kolmogorov_complexity) on Wikipedia
 * [Randomness by design](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.94.6651&rep=rep1&type=pdf) by William Dembski
 * [Toward Aesthetic Guidelines for Paintings with the Aid of a Computer](https://rednoise.org/softas/uploads/molnar.pdf) by Vera Molnar 
+* [Random, Chance and Art](https://rednoise.org/pdal/uploads/Ham_StochasticArt.pdf) by Ethan Ham 
 
 <br>
 
