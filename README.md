@@ -1,3 +1,3 @@
 
-<img src="https://raw.githubusercontent.com/dhowe/GetGen/master/getgen.png"/>
+<img src="https://raw.githubusercontent.com/dhowe/random-workshop/master/rws.png"/>
 
