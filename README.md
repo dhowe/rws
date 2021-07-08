@@ -1,7 +1,7 @@
 
-# A workshop on randomness for UAL
+## A workshop on randomness for UAL
 
-## Resources
+### Resources
 
 * [p5.js editor](https://editor.p5js.org/)
 * [p5.js reference](https://p5js.org/reference/)
