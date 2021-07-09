@@ -17,7 +17,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/dhowe/rws/master/cover.png"/>
+<img src="https://raw.githubusercontent.com/dhowe/rws/master/randomness.png"/>
 
 
 
