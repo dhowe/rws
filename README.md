@@ -11,6 +11,7 @@
 * [Toward Aesthetic Guidelines for Paintings with the Aid of a Computer](https://rednoise.org/softas/uploads/molnar.pdf) by Vera Molnar 
 * [John Cage's Music of Changes](https://www.youtube.com/watch?v=FRyb47cz5mo&list=OLAK5uy_kCIblLdqdZcieAt4jbqBGREMVYoZGFsK4) performed by David Tudor (video)
 * [Random, Chance and Art](https://rednoise.org/pdal/uploads/Ham_StochasticArt.pdf) by Ethan Ham 
+* [An Introduction to Perlin Noise](https://gorillasun.de/blog/Introduction-to-Perlin-Noise-in-P5JS-and-Processing) by Ahmad Moussa
 
 <br>
 
