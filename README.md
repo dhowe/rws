@@ -2,8 +2,11 @@
 
 ## A micro-workshop on randomness
 
+
+
 ### Resources
 
+* [Lecture slides (.pdf)](https://raw.githubusercontent.com/dhowe/rws/master/slides.pdf)
 * p5.js [editor](https://editor.p5js.org/) and [reference](https://p5js.org/reference/)
 * Vera Molnar [on randomness](https://rednoise.org/teaching/Molnar-Randomness.mp4) (2 min video)
 * [Kolmogorov Complexity](https://en.wikipedia.org/wiki/Kolmogorov_complexity) on Wikipedia
