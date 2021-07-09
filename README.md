@@ -12,6 +12,7 @@
 
 ### Next Steps
 * [Randomness by design](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.94.6651&rep=rep1&type=pdf) by William Dembski
+* [Is 2 a random number?](http://johnkerl.org/doc/is-two-a-random-number.pdf) by John Kerl
 * [Toward Aesthetic Guidelines for Paintings with the Aid of a Computer](https://rednoise.org/softas/uploads/molnar.pdf) by Vera Molnar 
 * [An Introduction to Perlin Noise](https://gorillasun.de/blog/Introduction-to-Perlin-Noise-in-P5JS-and-Processing) by Ahmad Moussa
 
