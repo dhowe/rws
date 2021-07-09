@@ -6,9 +6,9 @@
 
 ### Resources
 
-* [Lecture slides (.pdf)](https://raw.githubusercontent.com/dhowe/rws/master/slides.pdf)
+* [Lecture slides](https://raw.githubusercontent.com/dhowe/rws/master/slides.pdf) (.pdf)
 * p5.js [editor](https://editor.p5js.org/) and [reference](https://p5js.org/reference/)
-* Vera Molnar [on randomness](https://rednoise.org/teaching/Molnar-Randomness.mp4) (2 min video)
+* Vera Molnar [on randomness](https://rednoise.org/teaching/Molnar-Randomness.mp4) (2-min video)
 * [Kolmogorov Complexity](https://en.wikipedia.org/wiki/Kolmogorov_complexity) on Wikipedia
 * [Random, Chance and Art](https://rednoise.org/pdal/uploads/Ham_StochasticArt.pdf) by Ethan Ham 
 * [John Cage's Music of Changes](https://www.youtube.com/watch?v=FRyb47cz5mo&list=OLAK5uy_kCIblLdqdZcieAt4jbqBGREMVYoZGFsK4) performed by David Tudor (video)
