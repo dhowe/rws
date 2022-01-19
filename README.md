@@ -19,7 +19,7 @@
 * [Is 2 a random number?](http://johnkerl.org/doc/is-two-a-random-number.pdf) by John Kerl
 * [Toward Aesthetic Guidelines for Paintings with the Aid of a Computer](https://rednoise.org/softas/uploads/molnar.pdf) by Vera Molnar 
 * [An Introduction to Perlin Noise](https://gorillasun.de/blog/Introduction-to-Perlin-Noise-in-P5JS-and-Processing) by Ahmad Moussa
-* [Randomness in Quantum Mechanics: Philosophy, Physics and Technology](https://arxiv.org/pdf/1611.02176.pdf)
+* [Randomness in Quantum Mechanics: Philosophy, Physics and Technology](https://arxiv.org/pdf/1611.02176.pdf) by Bera et al.
 
 <br>
 
