@@ -12,16 +12,16 @@
       
       for (let j = 0; j < 22; j++) {
 
-        let displace = max(j, 0.2);
-        let randRot = random(-4, 4) * displace;
-        let randShift = random() * displace;
+        let displacement = max(j, 0.2);
+        let randRotation = random(-4, 4) * displacement;
+        let randShift = random(0, 1) * displacement;
 
         translate(i * sqSz, j * sqSz);
-        rotate(radians(randRot));
+        rotate(radians(randRotation));
         
         square(-sqSz / 2 + randShift, -sqSz / 2 + randShift, sqSz);
         
-        rotate(radians(-randRot));
+        rotate(radians(-randRotation));
         translate(-i * sqSz, -j * sqSz);
       }
     }
