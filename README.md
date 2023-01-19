@@ -15,7 +15,7 @@
 * [Jared Tarbells' Substrate](https://raw.githubusercontent.com/dhowe/rws/master/substrate.pde) (processing code)
 
 ### Next Steps
-* [Randomness by design](https://billdembski.com/wp-content/uploads/2019/04/Randomness_by_Design.pdf by William Dembski
+* [Randomness by design](https://billdembski.com/wp-content/uploads/2019/04/Randomness_by_Design.pdf) by William Dembski
 * [Is 2 a random number?](http://johnkerl.org/doc/is-two-a-random-number.pdf) by John Kerl
 * [Toward Aesthetic Guidelines for Paintings with the Aid of a Computer](https://rednoise.org/softas/uploads/molnar.pdf) by Vera Molnar 
 * [An Introduction to Perlin Noise](https://gorillasun.de/blog/Introduction-to-Perlin-Noise-in-P5JS-and-Processing) by Ahmad Moussa
