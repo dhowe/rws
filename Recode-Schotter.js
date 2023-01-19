@@ -1,4 +1,4 @@
-  let sqSz = 20;
+  let sqSize = 20;
 
   function setup() {
 
@@ -12,21 +12,20 @@
       
       for (let j = 0; j < 22; j++) {
 
-        let displace = max(j, 0.2);
-        let randRot = random(-4, 4) * displace;
-        let randShift = random() * displace;
+        let displacement = max(j, 0.2);
+        let randRotation = random(-4, 4) * displacement;
+        let randOffset = random(0, 1) * displacement;
 
-        translate(i * sqSz, j * sqSz);
-        rotate(radians(randRot));
+        translate(i * sqSize, j * sqSize);
+        rotate(radians(randRotation));
         
-        square(-sqSz / 2 + randShift, -sqSz / 2 + randShift, sqSz);
+        square(-sqSize/2 + randOffset, -sqSize/2 + randOffset, sqSize);
         
-        rotate(radians(-randRot));
-        translate(-i * sqSz, -j * sqSz);
+        rotate(radians(-randRotation));
+        translate(-i * sqSize, -j * sqSize);
       }
     }
   }
-
 
 
 
