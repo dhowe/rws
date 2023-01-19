@@ -1,4 +1,4 @@
-  let sqSz = 20;
+  let sqSize = 20;
 
   function setup() {
 
@@ -14,19 +14,18 @@
 
         let displacement = max(j, 0.2);
         let randRotation = random(-4, 4) * displacement;
-        let randShift = random(0, 1) * displacement;
+        let randOffset = random(0, 1) * displacement;
 
-        translate(i * sqSz, j * sqSz);
+        translate(i * sqSize, j * sqSize);
         rotate(radians(randRotation));
         
-        square(-sqSz / 2 + randShift, -sqSz / 2 + randShift, sqSz);
+        square(-sqSize/2 + randOffset, -sqSize/2 + randOffset, sqSize);
         
         rotate(radians(-randRotation));
-        translate(-i * sqSz, -j * sqSz);
+        translate(-i * sqSize, -j * sqSize);
       }
     }
   }
-
 
 
 
